@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+[My latest cv.](http://academicpages.github.io/files/Jiazhi_resume.pdf)
+
 Education
 ======
-* B.S. in Beijing, Beijing Institution of Technology, 2018
+* Ph.D in Los Angeles, University of Southern California, 2025 (expected)
 * M.S. in Los Angeles, University of Southern California, 2020
-* Ph.D in Los Angeles, University of Southern California, 2026 (expected)
+* B.S. in Beijing, Beijing Institution of Technology, 2018
 
 Work experience
 ======
-* Summer 2019 - Spring 2020: Student Worker
+* Summer 2020 - present: Graduate Research Assistant
+  * University of Southern California
+  * Duties included: Machine Learning Fairness
+  * Supervisor: Professor Wael Abd-Almageed
+
+* Summer 2019 - Spring 2020: Graduate Research Assistant
   * University of Southern California
   * Duties included: Splicing Edge Detection
   * Supervisor: Professor Jay Kuo
 
-* Summer 2020 - : Research Assistant
-  * University of Southern California
-  * Duties included: Debiasing Face Recognition
-  * Supervisor: Professor Wael Abd-Almageed
   
 Skills
 ======
@@ -42,18 +45,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer at European Conference on Computer Vision (ECCV) 2022.
+* Reviewer at Genetic and Evolutionary Computation Conference (GECCO) 2023.
