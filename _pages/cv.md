@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My latest cv.](http://academicpages.github.io/files/Jiazhi_resume.pdf)
+[CV](http://academicpages.github.io/files/Jiazhi_resume.pdf) (updated in 2023)
 
 Education
 ======
@@ -28,16 +28,6 @@ Work experience
   * University of Southern California
   * Duties included: Splicing Edge Detection
   * Supervisor: Professor Jay Kuo
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======

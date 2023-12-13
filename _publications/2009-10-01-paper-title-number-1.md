@@ -18,13 +18,3 @@ citation: '@misc{li2021informationtheoretic,
 **Google Best Poster Awards.**
 
 [Download paper here](http://academicpages.github.io/files/0211.pdf)
-
-Recommended citation: 
-@misc{li2021informationtheoretic,
-      title={Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition}, 
-      author={Jiazhi Li and Wael Abd-Almageed},
-      year={2021},
-      eprint={2111.04673},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
