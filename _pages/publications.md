@@ -18,8 +18,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=lNs776QAAAAJ&hl=en)
 
-A Rose by Any Other Name would not Smell as Sweet: Social Bias in Name Mistranslations
-Sandra Sandoval, Jieyu Zhao, Marine Carpuat, and Hal Daume III. EMNLP 2023.
+<!-- A Rose by Any Other Name would not Smell as Sweet: Social Bias in Name Mistranslations -->
+<!-- Sandra Sandoval, Jieyu Zhao, Marine Carpuat, and Hal Daume III. EMNLP 2023. -->
 
 [1] Jiazhi Li, Mahyar Khayatkhoei, Jiageng Zhu, Hanchen Xie, Mohamed E Hussein, Wael AbdAlmageed, “SABAF: Removing Strong Attribute Bias from Neural Networks with Adversarial Filtering”, submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
 
@@ -38,3 +38,5 @@ Sandra Sandoval, Jieyu Zhao, Marine Carpuat, and Hal Daume III. EMNLP 2023.
 [8] Shumeng Wang, Huiqi Li, Jiazhi Li, Yanjun Zhang, Bingshuang Zou, “Automatic Analysis of Lateral Cephalograms Based on Multiresolution Decision Tree Regression Voting”, accepted by Journal of Healthcare Engineering, 2018.
 
 [9] Jiageng Zhu, Hanchen Xie, Jiazhi Li, Mahyar Khayatkhoei, Wael AbdAlmageed, “An Investigation on the Position Encoding in Vision-Based Dynamics Prediction”, In-Submission, 2023.
+
+[10] Jiageng Zhu, Hanchen Xie, Jianhua Wu, Jiazhi Li, Mahyar Khayatkhoei, Mohamed E Hussein, Wael AbdAlmageed, “Shadow Datasets, New challenging datasets for Causal Representation Learning”, Pre-Print, 2023.
