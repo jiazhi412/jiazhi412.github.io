@@ -13,30 +13,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Los Angeles, University of Southern California, 2025 (expected)
-* M.S. in Los Angeles, University of Southern California, 2020
-* B.S. in Beijing, Beijing Institution of Technology, 2018
+* Ph.D. in University of Southern California, Los Angeles, 2025 (expected)
+* M.S. in University of Southern California, Los Angeles, 2020
+* B.S. in Beijing Institution of Technology, Beijing, 2018
 
-Work experience
+Work Experience
 ======
-* Summer 2020 - present: Graduate Research Assistant
+* 05/2020 - present: Graduate Research Assistant
   * University of Southern California
-  * Duties included: Machine Learning Fairness
+  * Duties included: Generative Models, Machine Learning Fairness, Debiased Representation Learning
   * Supervisor: Professor Wael Abd-Almageed
 
-* Summer 2019 - Spring 2020: Graduate Research Assistant
+* 05/2019 - 04/2020: Graduate Research Assistant
   * University of Southern California
   * Duties included: Splicing Edge Detection
   * Supervisor: Professor Jay Kuo
 
-Publications
+* 09/2017 - 07/2018: Undergraduate Research Assistant
+  * Beijing Institute of Technology
+  * Duties included: Medical Information Processing
+  * Supervisor: Professor Huiqi Li
+
+* 06/2017 - 09/2017: Undergraduate Research Assistant
+  * University of California, Irvine
+  * Duties included: Data Analysis from 3-D Printer
+  * Supervisor: Professor Mohammad Al Faruque
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
   
-Service and leadership
+Service & Leadership
 ======
 * Reviewer at European Conference on Computer Vision (ECCV) 2022.
 * Reviewer at Genetic and Evolutionary Computation Conference (GECCO) 2023.
