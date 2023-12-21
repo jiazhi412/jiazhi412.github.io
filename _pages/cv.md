@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in University of Southern California, Los Angeles, 2025 (expected)
-* M.S. in University of Southern California, Los Angeles, 2020
-* B.S. in Beijing Institution of Technology, Beijing, 2018
+* Ph.D. in Electrical Engineering (Generative Models, Machine Learning Fairness) at University of Southern California, Los Angeles, 2025 (expected)
+* M.S. in Electrical Engineering (Image Processing) at University of Southern California, Los Angeles, 2020
+* B.S. in Electronic Science and Technology at Beijing Institution of Technology, Beijing, 2018
 
 Work Experience
 ======
