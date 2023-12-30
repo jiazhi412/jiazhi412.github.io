@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My name is Jiazhi Li. 
-Currently, I am a Ph.D. student at the Department of Electrical and Computer Engineering, and a Graduate Research Assistant at Information Sciences Institute, both being units of USC Viterbi School of Engineering, under the supervision of Prof. Wael AbdAlmageed. My research interests primarily focus on **machine learning fairness, generative models, and unbiased representation learning**.
+Currently, I am a Ph.D. student at the Department of Electrical and Computer Engineering, and a Graduate Research Assistant at Information Sciences Institute, both being units of USC Viterbi School of Engineering, under the supervision of Prof. Wael AbdAlmageed. My research interests primarily focus on **machine learning fairness, generative models, and debiased representation learning**.
 Previously, I received my Bachelor's degree in Electrical Engineering from Beijing Institution of Technology in Beijing, China in 2018 and my Master's degree in Electrical Engineering from the University of Southern California, U.S. in 2020. 
 
 **I am currently seeking an internship in Summer 2024.**
