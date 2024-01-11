@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://academicpages.github.io/files/Jiazhi_resume.pdf) (updated in 2023)
+[CV](http://academicpages.github.io/files/Jiazhi_cv.pdf) (updated in 2024)
 
 Education
 ======
